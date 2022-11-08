@@ -1,5 +1,5 @@
 import React from "react";
-import {DataType} from "../App";
+import {DataType} from "./PS_1";
 
 
 type TasksProsType = {
